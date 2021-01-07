@@ -3,7 +3,7 @@ title: deploy.sh
 ---
 
 ##
-```markdown
+```bash
 #!/bin/bash
 # 部署目录
 set -e # 失败直接结束
